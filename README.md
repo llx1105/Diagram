@@ -1,1 +1,1 @@
-# diagrame
+# Diagrams
